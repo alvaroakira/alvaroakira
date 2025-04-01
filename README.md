@@ -1,4 +1,4 @@
-# Olá, eu sou o Álvaro Akira 👋
+# Olá, me chamo Álvaro Akira 👋
 
 Sou estudante de Informática Biomédica e estou sempre em busca de aprender novas tecnologias.  
 Atualmente, estou explorando linguagens como Java, C, Python, MySQL, HTML, CSS, JavaScript e, mais recentemente, GDScript/Godot.
