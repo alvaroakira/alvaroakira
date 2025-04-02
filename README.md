@@ -2,7 +2,7 @@
 
 Sou estudante de Informática Biomédica e estou sempre em busca de aprender novas tecnologias.  
 
-## Ferramentas e Tecnologias
+## Ferramentas e Tecnologias que tenho familiaridade
 
 <!-- Ícones de linguagens e ferramentas -->
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
